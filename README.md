@@ -4,6 +4,7 @@
 <p align="center">
  <br>
   <b>Welcome to My GitHub Profile! 🚀</b><br> <br><br>
+
   <img src="https://raw.githubusercontent.com/shreya-chinnari/shreya-chinnari/main/welcome_gif.gif" width="400">
 </p>
 
