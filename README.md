@@ -100,4 +100,8 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreya-chinnari&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
 <br>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreya-chinnari&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shreya-chinnari&theme=dracula)](https://git.io/streak-stats)
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-chinnari&show_icons=true&theme=dracula)
+![](https://komarev.com/ghpvc/?username=shreya-chinnari&color=blue)
 
