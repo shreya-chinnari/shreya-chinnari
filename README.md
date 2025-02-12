@@ -90,12 +90,12 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreya-chinnari&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-chinnari&layout=compact&hide=jupyter%20notebook&theme=radical&cache_seconds=86400&v=2)
 
 <br>
 
 # 🔰 Guess what kept me up at night?  
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-chinnari&layout=compact&hide=jupyter%20notebook&theme=radical&cache_seconds=86400&v=2)
 
 <br>
