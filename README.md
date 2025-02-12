@@ -94,8 +94,6 @@
 
 [![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-chinnari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreya-chinnari&theme=dracula)](https://git.io/streak-stats)
-
 <br>
 
 # 🔰 Guess what kept me up at night?  
