@@ -15,7 +15,6 @@
 
 <br> 
 
-![Profile Views](https://visitcount.itsvg.in/api?id=shreya-chinnari&label=Profile%20Views&color=12&icon=5&pretty=true)  
 
 # 🌐 Socials ~
 <br>
@@ -94,7 +93,6 @@
 <br>
 
 [![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-chinnari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-<p>                              </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreya-chinnari&theme=dracula)](https://git.io/streak-stats)
 
