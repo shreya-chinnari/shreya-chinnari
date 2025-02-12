@@ -91,6 +91,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-chinnari&layout=compact&hide=jupyter%20notebook&theme=radical&cache_seconds=86400&v=2)
 <br>
 
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-chinnari&show_icons=true&theme=dracula)
 
 <br>
 
@@ -105,8 +106,6 @@
 
 
 
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-chinnari&show_icons=true&theme=dracula)
 
 <br>
-![](https://komarev.com/ghpvc/?username=shreya-chinnari&color=blue)
 
