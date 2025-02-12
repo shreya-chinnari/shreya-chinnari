@@ -91,7 +91,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-chinnari&layout=compact&hide=jupyter%20notebook&theme=radical&cache_seconds=86400&v=2)
 <br>
 
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-chinnari&show_icons=true&theme=dracula)
+[![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-chinnari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+<p>                              </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shreya-chinnari&theme=dracula)](https://git.io/streak-stats)  
 
 <br>
 
