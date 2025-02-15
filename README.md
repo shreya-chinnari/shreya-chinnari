@@ -13,7 +13,6 @@
 🐣 I’m currently working on my Full Stack Skills <b>[MERN]<b> ! <br>
 🪄 I’m open to collaborate on Full Stack web projects ! <br><br>
 
-<br> 
 
 
 # 🌐 Socials ~
