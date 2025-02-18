@@ -97,11 +97,7 @@
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shreya-chinnari&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shreya-chinnari&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreya-chinnari&theme=radical&hide_border=true)
-
+![GitHub Streak](https://img.shields.io/badge/Streak-🔥%2025%20days-orange)
 
 
 <br>
