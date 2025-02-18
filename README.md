@@ -92,13 +92,19 @@
 # ⬇️ Github Stats ~  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-chinnari&layout=compact&hide=jupyter%20notebook&theme=radical&cache_seconds=86400&v=2)
 <br>
-![GitHub Streak](https://streak-stats.demolab.com?user=shreya-chinnari&theme=radical&hide_border=true)
-<br>
 
 [![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-chinnari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=shreya-chinnari&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shreya-chinnari&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreya-chinnari&theme=radical&hide_border=true)
+
+
+
+<br>
 # 🔰 Guess what kept me up at night?  
 <br>
 
