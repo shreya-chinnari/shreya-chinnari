@@ -1,6 +1,8 @@
 # Hey there! 🍁
 # I'm Shreya Chinnari, a Full-Stack Web Developer 
 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue)
+
 <p align="center">
  <br>
   <b>Welcome to My GitHub Profile! 🚀</b><br> <br><br>
