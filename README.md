@@ -70,6 +70,11 @@
 |------|-----|--------|--------|
 | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></p> |
 
+
+| Framer Motion |
+|--------------|
+| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="40"/></p> |
+
 </p> <br>
 
 # Checkout 🔮 ~
