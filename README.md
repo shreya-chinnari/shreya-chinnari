@@ -1,7 +1,7 @@
 # Hey there! 🍁
 # I'm Shreya Chinnari, a Full-Stack Web Developer 
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-212-blue)
 
 <p align="center">
  <br>
@@ -91,6 +91,8 @@
 
 # ⬇️ Github Stats ~  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-chinnari&layout=compact&hide=jupyter%20notebook&theme=radical&cache_seconds=86400&v=2)
+<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
 <br>
 
 [![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-chinnari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
