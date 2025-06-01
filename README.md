@@ -99,18 +99,3 @@
 
 <br>
 
-
-# 🔰 Guess what kept me up at night?  
-<br>
-
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreya-chinnari&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
-<br>
-
-
-
-
-
-
-<br>
-
