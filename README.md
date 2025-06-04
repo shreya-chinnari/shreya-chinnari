@@ -80,8 +80,7 @@
 <p align="center">
   <strong><em>I built this website from scratch for Affinity Childrens Services Ltd.</em></strong> 👇
   <br>
-<br>
-<br>
+
 <a href="https://affinitychildrens.co.uk/" target="_blank">
   🚀 Visit Website
 </a>
