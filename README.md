@@ -82,9 +82,9 @@
   <br>
 <br>
 <br>
-  <a href="https://affinitychildrens.co.uk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=🚀 Visit&message=Website&color=800080&style=for-the-badge&labelColor=FFFFFF&logoColor=black" alt="Visit Website">
-  </a>
+<a href="https://affinitychildrens.co.uk/" target="_blank">
+  🚀 Visit Website
+</a>
 </p>
 
 
