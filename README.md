@@ -1,5 +1,4 @@
 # Hey there! 🍁
-# I'm Shreya Chinnari, a Full-Stack Web Developer 
 
 
 <p align="center">
